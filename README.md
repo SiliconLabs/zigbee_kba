@@ -17,9 +17,7 @@ This repo contain examples that were made in conjunction with Zigbee knowledge b
 
 ## Examples ##
 
-- Mesh SED
-- Zigbee Host on EFM32GG11 with Micrium
-- Two Zigbee Applications in One Node
+- Asynchronous Sleepy-End-Device Communication
 
 ## Documentation ##
 
